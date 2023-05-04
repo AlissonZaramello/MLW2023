@@ -1,0 +1,30 @@
+.tamanho {
+    font-size: 50px;
+    }
+
+#coramarela {
+    background-color: yellow;
+    }
+
+.corvermelha, h2 {
+    background-color: rgb(255, 13, 233);
+    color: white;
+    }
+
+    ol li a {
+        font-size: 20px;
+    }
+
+    div p strong a {font-size: 30px;}
+
+    a:hover {
+        background-color: black;
+        color: yellow;
+        font-size: 50px;
+    }
+
+    h1::first-letter {
+        font-size: 50px;
+        color: rgb(17, 199, 87);
+        background-color: brown;
+    }
